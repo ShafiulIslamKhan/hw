@@ -1,0 +1,140 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+
+}
+.container{
+	
+}
+/* Header Section */
+header{
+	background: url(../img/banner.jpg) no-repeat;
+	background-size: cover;
+	padding: 25px 0px;
+	width: 100%;
+	float: left;
+}
+.nav-link{
+	color: #fff;
+	margin: 0px 15px;
+}
+.nav-link:hover{
+	color: #ff0000;
+}
+.banner-main{
+	color: #fff;
+	margin-top: 130px;
+    margin-bottom: 200px;
+
+}
+.banner-main h2{
+	background-color: #36373561;
+    display: inline-block;
+    padding: 20px 40px;
+   
+
+}
+.banner-main h6{
+	color: #fff;
+	margin-bottom: 70px;
+	margin-top: 30px;
+}
+.banner-main span{
+	border-bottom: 1px solid #fff;
+	display: block;
+	width: 4%;
+	margin-bottom: 37px;
+
+}
+.cstm-btn{
+	background-color: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 20px 100px;
+}
+.banner-main button a{
+	color: #fff;
+}
+.cstm-btn a:hover{
+	color: #ff0000;
+}
+/* welcome section */
+.welcome{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+}
+.welcome h2{
+	text-transform: uppercase;
+}
+.welcome h6{}
+.welcome span{
+	border-bottom: 1px solid #161616;
+	display: block;
+	width: 4%;
+	margin: 30px 0px;
+}
+.img-position{
+	margin-bottom: -10%;
+}
+
+
+/* Another Section */
+.another{
+	width: 100%;
+	float: left;
+	background-color: #28282e;
+	padding: 25px 0px;
+	color: #fff;
+}
+.another-main{
+	margin: 100px 0px;
+}
+.another-main h2{
+	text-transform: uppercase;
+}
+.another-main h6{
+	margin: 57px 0px;
+}
+.another-main span{
+	border-bottom: 1px solid #fff;
+	display: block;
+	width: 4%;
+	margin-bottom: 37px;
+}
+.another-main button a{
+	color: white;
+}
+/* 	Footer Section */
+footer{
+	width: 100%;
+	float: 	left;
+	background-color: #ef4035;
+	color: #fff;
+	padding: 40px 0px;
+}
+
+
+
+
+ /* Responsive breakpoints - Media Query */
+
+ /* Mobile Device */
+ @media(min-width: 320px) and (max-width: 576px){
+
+ }
+ /* Small Device */
+ @media(min-width: 576.01px) and (max-width: 768px){
+
+ }
+ /* Medium device */
+ @media(min-width:768.01) and (max-width: 1200){
+
+ }
+ /* Large device */
+ @media(min-width: 1200.01 ) and (max-width: ){
+
+ }
